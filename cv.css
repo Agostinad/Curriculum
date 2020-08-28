@@ -14,11 +14,11 @@ body{
 		img{
 
 			width: 15%; 
-			height: 25%;
+			height: 28%;
 			position: absolute;
 			bottom: 70%;
 			left: 58%;
-			border-radius: 50%;
+			border-radius: 40%;
 
 
 		}
@@ -45,5 +45,5 @@ body{
 		}
 
 		li{
-			line-height: 200%;
+			line-height: 150%;
 		}
