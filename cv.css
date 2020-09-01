@@ -11,7 +11,15 @@ body{
 			margin: 0 auto; 
 		}
 
-		img{
+		h1 {
+			font-size: 
+			60px;
+
+		}
+
+
+
+		img.perfil{
 
 			width: 15%; 
 			height: 28%;
@@ -20,6 +28,22 @@ body{
 			left: 58%;
 			border-radius: 40%;
 
+
+		}
+
+		img.logo{
+			width: 50px;
+			height: 50px;
+			padding right: 10px;
+			padding-left: 10px;
+			padding-top: 10px;
+
+		}
+
+	
+
+		li.logo{
+			display: inline;
 
 		}
 
@@ -35,6 +59,9 @@ body{
 		ul {
     		list-style: none;
 		}
+
+		
+
 		span{
 			font-weight: bold;
 		}
